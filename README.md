@@ -34,6 +34,6 @@ The file is not stored in the repository.
 It is downloaded automatically from GitHub Releases when the app starts.
 If the download fails, the app will show an error message.
 
-
+You can run the streamlit app using streamlit run app.py
  
 
