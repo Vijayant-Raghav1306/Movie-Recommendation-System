@@ -5,7 +5,7 @@ import pandas as pd
 import os
 
 # Function to download similarity.pkl from GitHub Release
-SIMILARITY_URL = "https://github.com/your-username/movie-recommender-app/releases/latest/download/similarity.pkl"
+SIMILARITY_URL = "https://github.com/Vijayant-Raghav1306/movie-recommender-app/releases/latest/download/similarity.pkl"
 
 def download_similarity():
     if not os.path.exists("similarity.pkl"):
